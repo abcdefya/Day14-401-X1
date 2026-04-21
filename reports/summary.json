@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "version": "v2",
+    "total": 50,
+    "passed": 42,
+    "failed": 8,
+    "conflicts": 16,
+    "timestamp": "2026-04-21 16:51:48"
+  },
+  "metrics": {
+    "avg_score": 3.53,
+    "hit_rate": 0.9,
+    "avg_mrr": 0.8,
+    "agreement_rate": 0.68,
+    "avg_latency_s": 162.414,
+    "total_tokens": 47912,
+    "est_cost_usd": 0.0479
+  },
+  "regression": {
+    "v1_avg_score": 3.6,
+    "delta": -0.07,
+    "decision": "APPROVE",
+    "reasons": []
+  }
+}
